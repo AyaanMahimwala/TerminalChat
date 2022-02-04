@@ -3,6 +3,7 @@
 This is a quick project I made to learn more about AWS EC2.
 I got introduced to AWS EC2 while I was a TA for EE 422C Fall 2021 (Software Implementation & Design 1 @ UT Austin) by a student who was hosting a server on an EC2 instance.
 I built a quick chat server that you can put on an EC2 instance, and chat client that you can use in the terminal to chat with whoever is online at the same time as you!
+Note: This project was completed in Dec 2021.
 
 ### How To Run Locally
 
